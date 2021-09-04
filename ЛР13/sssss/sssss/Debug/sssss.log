@@ -1,0 +1,4 @@
+﻿  sssss.cpp
+D:\Проекты\ЛР13\sssss\sssss\sssss.cpp(14,47): warning C4305: +=: усечение из "double" в "float"
+D:\Проекты\ЛР13\sssss\sssss\sssss.cpp(16,29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  sssss.vcxproj -> D:\Проекты\ЛР13\sssss\Debug\sssss.exe
